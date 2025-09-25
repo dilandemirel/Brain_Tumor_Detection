@@ -24,4 +24,5 @@ Gelecek çalışmalarda farklı hastanelerden ve cihazlardan elde edilen MR gör
 
 ### Proje ve Veri Seti
 https://www.kaggle.com/code/dilandemirel/brain-tumor-detection
+
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
